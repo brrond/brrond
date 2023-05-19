@@ -8,7 +8,7 @@ Although I am almost finished my Bachelor degree, I'm still not sure what I want
 
 <ul>
   <li><b>Pix2Pix-Keras</b> Library for atomized Pix2Pix model creation that will be compatible with Keras.</li>
-  <li><b>Share-a-model</b> Website for users to shair their `.h5` models with different hd5f, keras, tf2 support. Website for personal use only.</li>
+  <!--<li><b>Share-a-model</b> Website for users to shair their `.h5` models with different hd5f, keras, tf2 support. Website for personal use only.</li>-->
 </ul>
 
 ## 📖 TO learn
