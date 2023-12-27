@@ -2,7 +2,7 @@
 
 My name is Daniil Onishchenko. I'm 21 y.o. Computer Science Student from Ukraine. 
 
-Although I am almost finished my Bachelor degree, I'm still not sure what I want to do in my professional life. I have interests in backend development (Java), machine learning (Python, TF + and stuff) but I also like the idea of creating OpenGL, Win32 and Vulkan application in C++ (maybe in the future).
+I'm working as Junior Java Software Engineer.
 
 ## 📖 TO learn
 
